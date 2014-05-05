@@ -1,0 +1,27 @@
+.mapInfoWindow {
+    font-family: Arial;
+	color: #4d4d4d;
+	border-left: 1px solid #f4792a;
+	border-right: 1px solid #f4792a;
+	border-bottom: 1px solid #f4792a;
+    margin-top: 26px;
+    background-color: #fff;
+    font-size: 15px;
+    width: 288px;
+    padding: 0.5em 1em;
+    height: 115px;
+}
+
+.mapInfoWindow a {
+    font-family: Arial;
+	background-image: url("images/mapButtonUrl.png");
+    background-repeat: no-repeat;
+    color: #F4792A;
+    display: block;
+    font-size: 15px;
+    margin: 10px 0 0;
+    padding-left: 25px;
+    text-decoration: underline;
+    float: right;
+	line-height:25px;
+}
