@@ -133,7 +133,8 @@ var places = new Array(
 	place('South Africa', 'Atmosphere', 'Johannesburg', 'Johannesburg, Gauteng 2024', 'www.atmosphere.co.za',-26.104888,28.025093),
 	place('South Africa', 'Atmosphere', 'Johannesburg', '22 Lawley Road, Woodstock, 7925', 'www.atmosphere.co.za',-33.928833,18.454456),
 	place('Costa Rica', 'The Map Communication', 'San Jose', '2do Piso, Oficina 2-1 Escazu', 'www.themapcomm.com',9.958936,-84.118401),
-	place('Romania', 'Rogalski Damaschin Public Relations', 'Bucharest', '11 Grigore Mora Str', 'www.rogalskidamaschin.ro',44.4630639,26.0876063)
+	place('Romania', 'Rogalski Damaschin Public Relations', 'Bucharest', '11 Grigore Mora Str', 'www.rogalskidamaschin.ro',44.4630639,26.0876063),
+	place2('Marocco', 'Stratëus Group - Affaires et Relations', 'Casablanca', '3, rue Brahim Bnou Adham – Maarif, 20340', 'www.strateusgroup.com',33.5822235,-7.6303467)
 );
 
 var lastInfoWindow = 0;
