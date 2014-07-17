@@ -135,7 +135,16 @@ var places = new Array(
 	place('Costa Rica', 'The Map Communication', 'San Jose', '2do Piso, Oficina 2-1 Escazu', 'www.themapcomm.com',9.958936,-84.118401),
 	place('Romania', 'Rogalski Damaschin Public Relations', 'Bucharest', '11 Grigore Mora Str', 'www.rogalskidamaschin.ro',44.4630639,26.0876063),
 	place2('Marocco', 'Stratëus Group - Affaires et Relations', 'Casablanca', '3, rue Brahim Bnou Adham – Maarif, 20340', 'www.strateusgroup.com',33.5822235,-7.6303467),
-	place2('Croatia', 'Komunikacijski ured, Colić, Laco i partneri d.o.o.', 'Zagreb', 'Draškovićeva 12/3, 10000', 'www.commoffice.com',45.8127139,15.9833204)
+	place2('Croatia', 'Komunikacijski ured, Colić, Laco i partneri d.o.o.', 'Zagreb', 'Draškovićeva 12/3, 10000', 'www.commoffice.com',45.8127139,15.9833204),
+	place2('United States', 'Finn Partners', 'New York', '301 East 57th Street, New York 10022', 'www.finnpartners.com',40.7593798,-73.9646707),
+	place2('United States', 'Finn Partners', 'Chicago', '625 N. Michigan Ave Suite 2300, IL 60611', 'www.finnpartners.com',41.8930428,-87.6236617),
+	place2('United States', 'Finn Partners', 'Detroit', '1528 Woodward Avenue, Floor 4, MI 48226', 'www.finnpartners.com',42.33556,-83.04927),
+	place2('United States', 'Finn Partners', 'Fort Lauderdale', '110 E. Broward Blvd, Suite 1950, FL 33301', 'www.finnpartners.com',26.121645,-80.141621),
+	place2('Israel', 'Finn Partners', 'Jerusalem', 'Hartum Street, Beck Science Center, POB 45138 Har Hotzvim, 91450', 'www.finnpartners.com',31.80299,35.213708),
+	place2('United Kingdom', 'Finn Partners', 'London', 'Unit 14 Jacks Place, 6 Corbet Place, E1 6NN', 'www.finnpartners.com',51.5207342,-0.0744205),
+	place2('United States', 'Finn Partners', 'Los Angeles', '1875 Century Park East, Suite 200, CA 90067', 'www.finnpartners.com',34.0609111,-118.4147379),
+	place2('United States', 'Finn Partners', 'San Francisco', '388 Market Street, Suite 1400, CA 94111', 'www.finnpartners.com',37.7922841,-122.3979603),
+	place2('United States', 'Finn Partners', 'Washington', '1129 20th St NW, #200, DC 20036', 'www.finnpartners.com',38.9045403,-77.0448983)
 );
 
 var lastInfoWindow = 0;
