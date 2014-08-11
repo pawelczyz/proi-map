@@ -69,7 +69,6 @@ var places = new Array(
 	place('United States', 'Falls Communications', 'Cleveland', '50 Public Square Fl 25 ', 'http://www.fallscommunications.com/', 41.4987025, -81.69385790000001),
 	place('United States', 'PROI WORLDWIDE', 'Cleveland', '', 'www.proi.com', 41.4994954, -81.6954088),
 	place('United States', 'Jackson Spalding', 'Dallas', 'Saint Paul Place, 750 North Saint Paul St. Suite 1700', 'http://www.jacksonspalding.com/', 32.786041, -96.79972900000001),
-	place('United States', 'MGA Communications, Inc.', 'Denver', '1999 Broadway, Ste. 1450', 'www.mgacommunications.com', 39.7480979, -104.98761300000001),
 	place('United States', 'Lambert, Edwards & Assiociates', 'Detroit', '1420 Broadway, First Floor', 'http://lambert-edwards.com/', 42.8886527, -78.84203379999997),
 	place('United States', 'Lambert, Edwards & Assiociates', 'Grand Rapids', '47 Commerce Grand Rapids, MI 49503', 'http://lambert-edwards.com/', 42.9618759, -85.66952600000002),
 	place('United States', 'Lambert, Edwards & Assiociates', 'Lansing', '101 S. Washington Square, Suite 800', 'http://lambert-edwards.com/', 42.733296, -84.55183699999998),
@@ -144,7 +143,9 @@ var places = new Array(
 	place2('United Kingdom', 'Finn Partners', 'London', 'Unit 14 Jacks Place, 6 Corbet Place, E1 6NN', 'www.finnpartners.com',51.5207342,-0.0744205),
 	place2('United States', 'Finn Partners', 'Los Angeles', '1875 Century Park East, Suite 200, CA 90067', 'www.finnpartners.com',34.0609111,-118.4147379),
 	place2('United States', 'Finn Partners', 'San Francisco', '388 Market Street, Suite 1400, CA 94111', 'www.finnpartners.com',37.7922841,-122.3979603),
-	place2('United States', 'Finn Partners', 'Washington', '1129 20th St NW, #200, DC 20036', 'www.finnpartners.com',38.9045403,-77.0448983)
+	place2('United States', 'Finn Partners', 'Washington', '1129 20th St NW, #200, DC 20036', 'www.finnpartners.com',38.9045403,-77.0448983),
+	place2('Kenya', 'Corporate Talk Group', 'Nairobi', 'Wilson Business Park, Charlie Block', 'www.corporatetalk.co.ke',-1.316255,36.815132),
+	place2('Bulgaria', 'Intelday Solutions', 'Sofia', '57 Tzar Simeon, 1000 Sofia', 'www.intelday.com',42.7009191,23.3236734
 );
 
 var lastInfoWindow = 0;
