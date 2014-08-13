@@ -145,7 +145,7 @@ var places = new Array(
 	place2('United States', 'Finn Partners', 'San Francisco', '388 Market Street, Suite 1400, CA 94111', 'www.finnpartners.com',37.7922841,-122.3979603),
 	place2('United States', 'Finn Partners', 'Washington', '1129 20th St NW, #200, DC 20036', 'www.finnpartners.com',38.9045403,-77.0448983),
 	place2('Kenya', 'Corporate Talk Group', 'Nairobi', 'Wilson Business Park, Charlie Block', 'www.corporatetalk.co.ke',-1.316255,36.815132),
-	place2('Bulgaria', 'Intelday Solutions', 'Sofia', '57 Tzar Simeon, 1000 Sofia', 'www.intelday.com',42.7009191,23.3236734
+	place2('Bulgaria', 'Intelday Solutions', 'Sofia', '57 Tzar Simeon, 1000 Sofia', 'www.intelday.com',42.7009191,23.3236734)
 );
 
 var lastInfoWindow = 0;
